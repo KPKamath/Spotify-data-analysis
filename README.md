@@ -6,7 +6,7 @@ Project Category: Advanced
 
 
 ## Overview
-This project involves analysing the Spotify dataset from Kaggle with various attributes about tracks, albums, artists an so on using **PostgreSQL**. It covers an end-to-end process of normalizing a denormalised dataset and performing SQL queries of varying complexity (easy, medium, and advanced). The primary goal of the project is to generate valuable insights from the dataset.
+This project involves analysing the Spotify dataset from Kaggle with various attributes about tracks, albums, artists and so on using **PostgreSQL**. It covers an end-to-end process of normalizing a denormalised dataset and performing SQL queries of varying complexity (easy, medium, and advanced). The primary goal of the project is to generate valuable insights from the dataset.
 
 ```sql
 -- create table
